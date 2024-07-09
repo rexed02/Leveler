@@ -9,3 +9,5 @@ Program to develop artistic skills based on how fps pros use aim trainers
 * The shapes have a fisheye type deformation, and the closer it is to the camera the greater the deformation it will have and the further away the less
 * The user's objective is to draw lines on the screen and try to guess the lines of the shape, which by default are hidden and can be unhidden by pressing the space key.
 
+# Keys and buttons
+![Captura de pantalla (388)](https://github.com/rexed02/Leveler/assets/98245225/a17d3ea4-bdfe-40a8-9a62-684a20afe5b6)
