@@ -11,3 +11,14 @@ Program to improve artistic skills inspired by how aim trainers work
 
 # Keys and buttons
 ![Captura de pantalla (388)](https://github.com/rexed02/Leveler/assets/98245225/a17d3ea4-bdfe-40a8-9a62-684a20afe5b6)
+Keys:
+- space bar -> hide unhide shape lines
+- r -> reset
+- t -> show graph
+- m -> in sphere show ellipses that form it
+- g -> show fish eye grid
+- 1,2,3 numbers -> difficulty (line thickness)
+- 4,5,6 numbers -> shape size
+- "+" and "-" -> change brush size
+- e -> eraser
+- b -> brush
