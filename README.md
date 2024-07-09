@@ -36,4 +36,8 @@ Keys:
 (The accuracy only updates when the lines are unhide)
 ![Captura de pantalla (402)](https://github.com/rexed02/Leveler/assets/98245225/c4134ae7-2a2a-4401-9d9d-218ad88b0010)
 
+# Small considerations
+- Ctrl + z only works for brush lines
+- After a first reset, the program will no longer be selected in the foreground and you will have to tap on the window again to enter, and then after that it won't happen anymore
+
 
