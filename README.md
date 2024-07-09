@@ -17,8 +17,9 @@ Keys:
 - t -> show graph
 - m -> in sphere show ellipses that form it
 - g -> show fish eye grid
+- e -> eraser
+- b -> brush
 - 1,2,3 numbers -> difficulty (line thickness)
 - 4,5,6 numbers -> shape size
 - "+" and "-" -> change brush size
-- e -> eraser
-- b -> brush
+
