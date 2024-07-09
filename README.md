@@ -22,4 +22,18 @@ Keys:
 - 1,2,3 numbers -> difficulty (line thickness)
 - 4,5,6 numbers -> shape size
 - "+" and "-" -> change brush size
+# More screenshots
+# Cube:
+![Captura de pantalla (396)](https://github.com/rexed02/Leveler/assets/98245225/a520f1f1-635a-4883-9acc-49b3c225147b)
+# Sphere ellipses:
+![Captura de pantalla (397)](https://github.com/rexed02/Leveler/assets/98245225/0f32f727-0366-4d30-8d25-cc7e03e744b5)
+# Fish eye grid
+![Captura de pantalla (398)](https://github.com/rexed02/Leveler/assets/98245225/9a2e9fed-c963-42f8-9dd2-8f30ac7fbe39)
+
+![Captura de pantalla (399)](https://github.com/rexed02/Leveler/assets/98245225/6c115af3-c3c6-47a6-9425-0e2911bbeb32)
+# Example of use
+![Captura de pantalla (400)](https://github.com/rexed02/Leveler/assets/98245225/af8c7edc-f8de-439b-8879-927bca77641b)
+(The accuracy only updates when the lines are unhide)
+![Captura de pantalla (402)](https://github.com/rexed02/Leveler/assets/98245225/c4134ae7-2a2a-4401-9d9d-218ad88b0010)
+
 
